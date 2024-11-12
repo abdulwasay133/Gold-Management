@@ -1,0 +1,18 @@
+.hide{
+    display: none;
+}
+.bg-danger {
+    background-color: black;
+    }
+.Exchange > td { background-color: #fdd55c;}
+.Sell > td { background-color: #83e9b9;}
+.Purchase > td { background-color: #fa838f;}
+.Cash > td { background-color: #83d8fa;}
+
+.cash2 > td {background-color: #83e9b9;}
+.cash1 > td {background-color: #fa838f;}
+.cash tbody td:nth-child(3) { 
+    background:#83e9b9
+    
+    
+ }
